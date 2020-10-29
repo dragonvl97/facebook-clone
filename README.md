@@ -1,2 +1,2 @@
-# Facebook-Clone
+# Facebook-clone-app
 A facebook clone using ReactJS
